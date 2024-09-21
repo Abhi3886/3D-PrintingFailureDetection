@@ -6,6 +6,8 @@
 Uses a self made dataset that comprises of successful and failed 3d prints
 ### Sample Images from the Dataset
 ![Sample of Image used in the dataset](https://github.com/Abhi3886/3D-PrintingFailureDetection/blob/main/training_results/sample_images_dataset/sample_image.png)
+
+
 ###Dataset link (in repository)
 ## Running the YOLOV8 Model
 - Setup Environment
